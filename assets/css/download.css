@@ -63,7 +63,7 @@ h2{
   overflow: hidden;
 }
 .download .device img{
-  width: 100%;
+  padding-left: 10px;
   vertical-align: middle;
   transition: all 0.3s ease;
 }
